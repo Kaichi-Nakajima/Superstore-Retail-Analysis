@@ -12,3 +12,5 @@ Revenue is concentrated among top customers: the top 10% account for 38.7% of sa
 Product results show a distinction between order frequency and sales per order. Some products appear in many orders, while the most extreme sales-per-order products appear in only one or two orders. Those products should not be described as the leading revenue drivers until they are compared using total sales and order count.
 
 Monthly sales are uneven, with noticeable peaks around September and late in the year. The year-by-year chart suggests stronger sales in parts of Q4, but the peaks vary in size and timing.
+
+### Recommended Actions
